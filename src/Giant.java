@@ -7,7 +7,6 @@ public class Giant extends Critter {
 
     public Giant(){
         super();
-        this.currentStr = currentStr;
     }
 
     public Color getColor() {

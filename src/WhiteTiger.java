@@ -6,7 +6,6 @@ public class WhiteTiger extends Tiger{
 
     public WhiteTiger() {
         super();
-        this.infected = infected;
     }
 
     public Color getColor() {

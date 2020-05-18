@@ -1,8 +1,8 @@
 import java.awt.*;
 
-public class NinjaCat extends Critter {
+public class FarrahCat extends Critter {
 
-    public NinjaCat() {
+    public FarrahCat() {
         super();
     }
 

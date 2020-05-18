@@ -2,7 +2,7 @@ import java.awt.*;
 
 public class Bear extends Critter{
 
-    private boolean polar;
+    private final boolean polar;
     private String bearSymbol = "/";
 
     public Bear(boolean polar){
