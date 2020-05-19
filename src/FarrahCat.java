@@ -23,7 +23,7 @@ public class FarrahCat extends Critter {
             int rand = (int) (Math.random() * 2);
             if (rand == 0) {
                 return Action.RIGHT;
-            }else{
+            } else {
                 return Action.LEFT;
             }
         }
